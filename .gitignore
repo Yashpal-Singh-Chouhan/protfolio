@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Python (pdfminer etc — not needed in repo)
+__pycache__/
+*.py
+*.pyc
+*.egg-info/
